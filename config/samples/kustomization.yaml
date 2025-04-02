@@ -1,0 +1,4 @@
+## Append samples of your project ##
+resources:
+- mediawiki_v1alpha1_wiki.yaml
+# +kubebuilder:scaffold:manifestskustomizesamples
